@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DigitalClock/static/css/main.d284e066.css",
+    "main.js": "/DigitalClock/static/js/main.c13d8008.js",
+    "static/js/453.ed3810f9.chunk.js": "/DigitalClock/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/DigitalClock/index.html",
+    "main.d284e066.css.map": "/DigitalClock/static/css/main.d284e066.css.map",
+    "main.c13d8008.js.map": "/DigitalClock/static/js/main.c13d8008.js.map",
+    "453.ed3810f9.chunk.js.map": "/DigitalClock/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d284e066.css",
+    "static/js/main.c13d8008.js"
+  ]
+}
